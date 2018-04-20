@@ -1,0 +1,3 @@
+com\silicus\ach\azure\fileupload\IStorageService.class
+com\silicus\ach\azure\fileupload\BlobClientProvider.class
+com\silicus\ach\azure\fileupload\StorageServiceImpl.class
